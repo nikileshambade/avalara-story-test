@@ -1,0 +1,11 @@
+<% if(data.options[name]){ %>
+  <a href=<%- '/' + data.options[name].id %>><%- data.options[name].title %></a>
+<% } else {%>
+  <form name="form-text" method="POST" action="/">
+    <input name="optiontext" type="text" style="display: block;"/>
+    <input name="optiontitle" type="text" value=<%- name %> style="display: none;"/>
+    <input name="optionparentid" type="text" value=<%- data.id %> style="display: none;"/>
+    <br/>
+    <input type="submit" value="submit">
+  </form>
+<% }%>
