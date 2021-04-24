@@ -6,8 +6,8 @@ Below instructions will get you project run on to your local machine.
 
 ## Prerequisites
 
-#### Visual studio code (or any editor as per your comfort)
-#### Node 
+### Visual studio code (or any editor as per your comfort)
+### Node 
 
 ### Configurations To Run Local
 #### Step1 :
