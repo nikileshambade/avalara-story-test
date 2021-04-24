@@ -9,7 +9,7 @@ Below instructions will get you project run on to your local machine.
 ### Visual studio code (or any editor as per your comfort)
 ### Node 
 
-### Configurations To Run Local
+## Configurations To Run Local
 #### Step1 :
 Clone the repo 
 #### Step 2:
