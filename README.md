@@ -44,3 +44,6 @@ It is simple method that will return you an object of mentioned Id.
 ***getStoryController, addStoryController*** are two controller methods that are defined in ***story.controller.js*** which internally uses data utility to get or add data and 
 render it on UI.
 Specific controller is assigned to specific routes defined in StoryRouter.
+
+## Flowchart:
+![image](https://user-images.githubusercontent.com/5128177/116052927-bf9de280-a697-11eb-8848-fa92dbcbbce8.png)
